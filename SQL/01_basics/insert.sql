@@ -1,4 +1,4 @@
-INSERT INTO student VALUES(
+INSERT INTO student VALUES
 (1,"sanket gawali",15,"b1","chalisgoan"),
 (2,"jay jaiwal",19,"b2","sambhaji nagar"),
 (3,"kishori jagtap",10,"b2","nashik"),
@@ -7,4 +7,5 @@ INSERT INTO student VALUES(
 (6,"payal kale",12,"b2","nashik"),
 (7,"pratiksha vadje",19,"b2","dindori"),
 (8,"dhanashree jadhav",16,"b2","nashik");
-);
+
+select * from student;
